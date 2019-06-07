@@ -8,20 +8,20 @@ The project began on Dec 21, 2018 (https://twitter.com/bretmulligan/status/10761
 
 Credits (the presence of a name indicates that the book has been completed and is present in the .xlsx file)
 
-Book 1 Bret Mulligan
-Book 2 
+Book 1 Bret Mulligan COMPLETE
+Book 2  r
 Book 3 Bret Mulligan
-Book 4
-Book 5 
-Book 6
-Book 7
-Book 8
-Book 9
-Book 10
-Book 11
-Book 12
-Book 13
-Book 14
+Book 4 @MagisterConway
+Book 5 Stephen Farrand
+Book 6 Daniel Latique
+Book 7  
+Book 8  
+Book 9  
+Book 10  
+Book 11  
+Book 12  
+Book 13  
+Book 14  
 Book 15 Bret Mulligan
 
 
